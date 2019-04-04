@@ -1,0 +1,3 @@
+[submodule "SuRE-variants-pipeline"]
+	path = SuRE-variants-pipeline
+	url = https://github.com/lpagie/SuRE-variants-pipeline
