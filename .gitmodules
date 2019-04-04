@@ -1,3 +1,6 @@
 [submodule "SuRE-variants-pipeline"]
 	path = SuRE-variants-pipeline
 	url = https://github.com/lpagie/SuRE-variants-pipeline
+[submodule "SuRE-ms-scripts"]
+	path = SuRE-ms-scripts
+	url = https://github.com/vansteensellab/SuRE-ms-scripts
