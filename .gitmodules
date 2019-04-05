@@ -4,3 +4,6 @@
 [submodule "SuRE-ms-scripts"]
 	path = SuRE-ms-scripts
 	url = https://github.com/vansteensellab/SuRE-ms-scripts
+[submodule "SuRE-raQTL-scripts"]
+	path = SuRE-raQTL-scripts
+	url = https://github.com/lpagie/SuRE-raQTL-scripts
